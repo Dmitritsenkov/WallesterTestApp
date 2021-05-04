@@ -1,0 +1,31 @@
+@import '../../assets/styles/colors';
+
+.container{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%; 
+    border-radius: 1rem;
+}
+
+.table_title{
+    display: table-cell;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.table_tableData{
+    width: auto;
+    padding: 1rem;
+}
+
+.table_tableRow{
+    display: table-row;
+}
+.table_tableRow:hover{
+    background-color: $mainGrey;
+}

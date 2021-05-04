@@ -1,0 +1,35 @@
+@import '../../assets/styles/colors';
+
+button{
+    outline: none;
+}
+
+.mainButton{
+    background-color: $mainGreen;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    border: none;
+    margin: auto 0;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.mainButton:hover{
+    background-color: #449963;
+}
+
+.secondButton{
+    background-color: #FFF;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    border: $mainGreen 1px solid;
+    padding: 0.5rem 1rem;
+    color: $mainGreen;
+    cursor: pointer;
+}
+
+.secondButton:hover{
+    background-color: #449963;
+    color: #FFF;
+}

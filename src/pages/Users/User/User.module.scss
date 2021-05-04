@@ -1,0 +1,22 @@
+@import '../../../assets/styles/mixins';
+
+.container{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding: 1rem;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    column-gap: 3rem;
+    @include sm {    
+        flex-direction: column;
+        column-gap: 0;
+        row-gap: 1rem;
+    }
+}
+
+.profile_header{
+    margin: 0;
+}

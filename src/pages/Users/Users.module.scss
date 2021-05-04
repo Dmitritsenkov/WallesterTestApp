@@ -1,0 +1,47 @@
+@import '../../assets/styles/colors';
+
+.pagination {
+    margin: 15px auto;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    outline: none;
+  }
+  .pagination > .active > a{
+    background-color: #47ccde;
+    border-color: #47ccde ;
+    color: #fff;
+  }
+  .pagination > li > a{
+    border: 1px solid #47ccde ;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+  }
+  .pagination > li > a, .pagination > li > span{
+    color: #47ccde
+  }
+ 
+  .tableHeader_tableName{
+    font-size: 1.2rem;
+}
+
+.tableHeader{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  column-gap: 1rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  padding: 0 1rem;
+  background-color: $mainGrey;
+
+}
+
+.users_tableHeader{
+  justify-content: space-between;
+}
+
+.user_tableHeader{
+  justify-content: flex-start;
+}
