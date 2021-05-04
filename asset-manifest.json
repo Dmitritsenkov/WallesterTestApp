@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WallesterTestApp/static/css/main.a8e0ec9e.chunk.css",
+    "main.js": "/WallesterTestApp/static/js/main.16b0f390.chunk.js",
+    "main.js.map": "/WallesterTestApp/static/js/main.16b0f390.chunk.js.map",
+    "runtime-main.js": "/WallesterTestApp/static/js/runtime-main.7dd5a254.js",
+    "runtime-main.js.map": "/WallesterTestApp/static/js/runtime-main.7dd5a254.js.map",
+    "static/css/2.0cfad52a.chunk.css": "/WallesterTestApp/static/css/2.0cfad52a.chunk.css",
+    "static/js/2.1cd75f56.chunk.js": "/WallesterTestApp/static/js/2.1cd75f56.chunk.js",
+    "static/js/2.1cd75f56.chunk.js.map": "/WallesterTestApp/static/js/2.1cd75f56.chunk.js.map",
+    "index.html": "/WallesterTestApp/index.html",
+    "static/css/2.0cfad52a.chunk.css.map": "/WallesterTestApp/static/css/2.0cfad52a.chunk.css.map",
+    "static/css/main.a8e0ec9e.chunk.css.map": "/WallesterTestApp/static/css/main.a8e0ec9e.chunk.css.map",
+    "static/js/2.1cd75f56.chunk.js.LICENSE.txt": "/WallesterTestApp/static/js/2.1cd75f56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dd5a254.js",
+    "static/css/2.0cfad52a.chunk.css",
+    "static/js/2.1cd75f56.chunk.js",
+    "static/css/main.a8e0ec9e.chunk.css",
+    "static/js/main.16b0f390.chunk.js"
+  ]
+}
