@@ -1,5 +1,5 @@
 In the project directory to install all dependencies run:
-# npm install
+# `npm install`
 
 Then you can start a project:
 # `npm start`
